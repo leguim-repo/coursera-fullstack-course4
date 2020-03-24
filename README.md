@@ -4,7 +4,7 @@
 
 | Links | Description |  
 |----------------------------------------------|--------------------|  
-|<https://github.com/leguim-repo/coursera-fullstack-course4/tree/master/module2-solution>| Solution of assignment of Module 2 |  
+|<https://leguim-repo.github.io/coursera-fullstack-course4/module2-solution/index.html>| Solution of assignment of Module 2 |  
 
 ---
 
