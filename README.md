@@ -12,3 +12,11 @@
 ---
 
 ##### Coded in Barcelona during quarantine of Covid19  
+
+<!-- Test of Better Comments
+ * Comments with colors using Better Comments Extension Visual Studio Code
+ ! This is in red color  
+ ? This is in blue color
+ TODO: This is in orange color  
+ // This is in strikerough and gray color
+-->
